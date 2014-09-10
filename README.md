@@ -1,8 +1,3 @@
-Kathryn
-=======
-
-A Liberal Art Student's Guide to Web Design
-
 <header>######Fall 2014 Sarah Lawrence College</header>
 
 A Liberal Art Student's Guide to Web Design
