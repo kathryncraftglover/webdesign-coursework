@@ -1,4 +1,4 @@
-######Fall 2014 Sarah Lawrence College
+######Fall 2014 Sarah Lawrence College######
 
 A Liberal Art Student's Guide to Web Design
 ======
@@ -12,7 +12,7 @@ Concentrations: Japanese
 
 *Aspiration for this course:* 
 
-1. I hope to set in place a basic framework from which I can build if I chose to continue on with a career in software development.
+1. I hope to set in place a basic framework from which I can build if I chose to continue with a career in software development.
 
 2. I also would like to be able to realize a few projects that I have concept
 
