@@ -22,5 +22,4 @@ Concentrations: **Japanese Language, East Asian Relations**
 
 
 
-#####*Note:*
-#####I also go by Kat :smile_cat: 
+#####*Note:* #I also go by Kat :smile_cat: 
