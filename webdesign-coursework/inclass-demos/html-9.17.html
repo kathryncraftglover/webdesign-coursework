@@ -1,16 +1,34 @@
 <!DOCTYPE html> <!-- neccesary to render page -->
 
 <head>
-<-- Included Web, Title, CSS -->
+<!-- Included Web, Title, CSS -->
 	<meta charset="UTF-8"/>
-	<link rel="stylesheet" href="ex-styles.css">
-<-- this means that there are dependances. we are referencing a style sheet --> 
+	<link rel="stylesheet" href="CSS-9.17.css">
+<!-- this means that there are dependances. we are referencing a style sheet --> 
 	<title>Monk's Advice</title>
-<-- title only works in the head tag (the lastest title will override all) -->
+<!-- title only works in the head tag (the lastest title will override all) -->
 </head>
 
 <body>
-<-- the body tag has properties and is the first thing you can style (size, color, style)
+<!-- the body tag has properties and is the first thing you can style (size, color, style)
 every single web page has a body -->
+	<header>
+<!-- used header instead of div. div is a generic container (used before more specific things like header) 
+Header, section, div, article all are containers-->
+		<h1 class="fancy"> Test html</h1>
+<!-- when used in alot of places use class. (id) can only be used once -->
+			<p class=""> Blah blah blah blah
+			<a href="google.com"> link</a> blah blah blah.</p>
+<!-- p is the paragraph tag, a is the anchor tag -->
+	</header>
+	
+	<ul class="fancy">
+		<li class="quote">blah </li>
+<!-- we are calling the style sheet we linked to initially to being a predefined style -->
+		<li>blah </li>
+		<li>blah</li>
+<!-- un ordered list ul, ordered list o1, list item is li -->
+	</ul>
+	
 
 </body>

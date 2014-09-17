@@ -1,0 +1,21 @@
+@import url (http://fonts.googleapis.com/css?family=helvetica)
+
+body {
+	font-size: 14px:
+	font-family: helvetica, arial, san-serif:
+	line-height: 1.4;
+	}
+
+a {
+/* we are overriding the a link */
+	color: inherit;
+	padding-bottom: 1px;
+	test-decoration: none;
+	border-bottom: 1px dashed #979797;
+	}
+	
+a:hover {
+/* we are adding a hover to the links */
+	color: red;
+	font-weight: bold;
+}
