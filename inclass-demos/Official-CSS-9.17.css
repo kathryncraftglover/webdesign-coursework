@@ -1,0 +1,83 @@
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,400italic,700italic,900italic);
+
+body {
+  font-size: 10px;
+  font-family: helvetica, arial, sans-serif;
+  line-height: 1.4;
+}
+
+a {
+  /* we're overriding how the browser styles links */ 
+  color: inherit;
+  /* margins, padding and block will be covered when we talk about css layouts & positioning  */
+  padding-bottom: 1px;
+  text-decoration: none;
+  border-bottom: 1px dashed #979797;
+}
+
+a:hover {
+  color: red;
+  font-weight: bold;
+}
+
+.container {
+  display: block;
+  margin: 0 auto;
+  width: 480px;
+  height: 100%;
+}
+
+.container h1 {
+  font-weight: 400;
+  font-size: 48px;
+  border-bottom: 1px solid red;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.container p {
+  display: block;
+  margin-top: 30px;
+  font-size: 18px;
+  color: rgba(0,0,0,0.60); /* we'll get more into fancy declarations when
+                              we talk about css3 */
+}
+
+
+ul {
+  border-bottom: 2px solid red;
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+li {
+  margin: 40px 0;  
+  letter-spacing: 1px;
+}
+
+li:first-child { /* pseudo-selectors will be covered
+                    when we discuss advanced javascript */
+  margin-top: 0;
+}
+
+li.quote {
+  font-size: 48px;
+  font-weight: 400;
+}
+
+li.quote em {
+  font-weight: 900;
+}
+
+footer {
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+  padding-top: 20px;
+}
+
+.fancy {
+  font-family: 'playfair display';
+}
