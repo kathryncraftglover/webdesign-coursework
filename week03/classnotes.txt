@@ -18,5 +18,5 @@ CSS
 		Position
 			Static - browser default
 			Relative - adding influx - creates coordinate system
-			Absolute - takes element out of document flow - creates coordinate system
+			Absolute - takes element out of document flow - creates coordinate system *important*
 			*alters the flow of the document
