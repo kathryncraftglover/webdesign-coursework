@@ -1,0 +1,22 @@
+HTML	
+	All tags should be lowercase
+	Every element on a page is a rectangular box
+	
+CSS
+	Properties that contribute to an element's width and height
+		width and height
+		border
+		padding
+		margin doesn't add width but it's still important 
+		(margin doesn't affect width)
+		border exists on the outside of the element
+		Width depends on display type
+			Block tries for as much space as possible
+			Hight and width are only relevant for block elements
+		Padding inside <->.
+		Margin outside moving stuff around
+		Position
+			Static - browser default
+			Relative - adding influx - creates coordinate system
+			Absolute - takes element out of document flow - creates coordinate system
+			*alters the flow of the document
