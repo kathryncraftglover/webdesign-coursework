@@ -20,3 +20,6 @@ CSS
 			Relative - adding influx - creates coordinate system
 			Absolute - takes element out of document flow - creates coordinate system *important*
 			*alters the flow of the document
+Want smallest head possible
+	Head speaks directly to web page
+Debug class adds border around element
