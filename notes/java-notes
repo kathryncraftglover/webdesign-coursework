@@ -1,0 +1,39 @@
+JAVA
+
+end everything in ;
+
+Variables
+	var
+Booleans
+	true false
+Null
+	absence of somehting
+
+DATA Types
+	undefined, string, number, object, boolean, null
+	stings are contained in single quotes <- escape quote with /
+	arrray
+		push to add
+		pop to take away from the end
+
+Function
+	Functions are a first class citizen
+		function has a key word
+		function myFunction {;
+	Function expression
+		var myFunction = function
+	Call Both ~ myFucktion
+
+	Fuction - Arguments
+	Self excuting fuction has no name
+
+	Return this returns myObject
+
+Objects
+
+JQUERY
+	Jquery = $
+	if you are asking jqueey to do somethig for you use dollar sign 
+
+
+all the text gets changes 

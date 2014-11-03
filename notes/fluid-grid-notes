@@ -1,0 +1,32 @@
+Fluid Grid
+960 is a good grid
+215/960 X 100 = X (do not round)
+
+make it static first them appl y the numbers
+
+works for margins as well 
+
+Chage font according to em
+Change widths accroding to percentages
+
+Set mmax width to 100% on the image
+You do not set a width or height
+do not set image witdth and hegiht to auto
+
+Media Queries
+	consists of media type and an optional combination of media features
+	usually media questies at the top of the CSS file
+	Common MW
+		min-width
+		min-height
+		max-width
+		max-height
+
+Workflow
+	Set breakpoints where you need them ~ based on design and not on screen
+	breakpoints is where design breaksdown
+
+Set everything to ems
+	Which makes it relative to the size of the type. 
+
+acnplwgl
